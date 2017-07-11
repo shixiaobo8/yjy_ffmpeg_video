@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/root/shell/demo
+OUTPUT_PATH=/root/shell/hls/
+THUMB_PATH=/root/shell/thumb/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/demo/
+APP_URL=http://m1.letiku.net/demo/
+TMP_PATH=/root/shell/fs_convert/
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_demo.log
+ERROR_LOG=~/shell/log/error_demo.log

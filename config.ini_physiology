@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/physiology/20170113
+OUTPUT_PATH=/data/hls/iwm/physiology/
+THUMB_PATH=/data/hls/thumb/physiology/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/physiology/
+APP_URL=http://m1.letiku.net/physiology/
+TMP_PATH=/data/fs_convert/physiology
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_physiology.log
+ERROR_LOG=~/shell/log/error_physiology.log

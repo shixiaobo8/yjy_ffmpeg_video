@@ -1,0 +1,14 @@
+[common]
+MEDIA_PATH=/data/original/xiyizonghe/fushishicao/20170113
+OUTPUT_PATH=/data/hls/xiyizonghe/fushishicao
+THUMB_PATH=/data/hls/thumb/xiyizonghe/fushishicao
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/xiyizonghe/
+APP_URL=http://m1.letiku.net/xiyizonghe/
+TMP_PATH=/data/fs_convert/xiyizonghe
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_xiyizonghe.log
+ERROR_LOG=~/shell/log/error_xiyizonghe.log

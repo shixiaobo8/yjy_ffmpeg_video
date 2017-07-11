@@ -1,0 +1,15 @@
+[common]
+MEDIA_PATH=/data/original/biochemistry/20170119
+OUTPUT_PATH=/data/hls/iwm/biochemistry/
+THUMB_PATH=/data/hls/thumb/biochemistry/
+RESOLUTION=720x406
+WEB_URL=http://m1.letiku.net/iwm/biochemistry/
+APP_URL=http://m1.letiku.net/iwm/biochemistry/
+TMP_PATH=/data/fs_convert/biochemistry
+KEY_FILE=~/shell/secret.key
+
+[log]
+LOG_PATH= ~/shell/log/
+SQL_LOG= ~/shell/log/sql_biochemistry.log
+ERROR_LOG=~/shell/log/error_biochemistry.log
+MEDIA_ENCRYPT_PATH=/data/hls/iwm/biochemistry/
